@@ -1,4 +1,4 @@
-### Full Stack Developer | Kernel & System Engieer | Cryptographer 👋
+### Full Stack Developer | Kernel & System Engieer 👋
 
 ⚡ Gamer. Coder. Procastinator. 
 ⚡ Product Engineer
