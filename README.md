@@ -1,7 +1,7 @@
 ### Software Engineer | Automation System | Developer 👋
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=lancemk)
-[![linkedin](https://img.shields.io/badge/lancemk-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lancemk)](https://www.linkedin.com/in/lancemk)
+[![linkedin](https://img.shields.io/badge/Lance-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lancemok/)](https://www.linkedin.com/in/lancemok)
 
 ![Lance's GitHub stats](https://github-readme-stats.vercel.app/api?username=lancemk&show_icons=true&theme=dark)
 
