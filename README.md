@@ -5,14 +5,14 @@
 
 [![GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/lancemk?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
-⚡ Works with! Python, GoLang, JavaScript, Java, C/C++
-⚡ Learning [Zig](https://github.com/ziglang/zig), Rust
-⚡ Product Engineer
+⚡ Works with! Python, GoLang, JavaScript, Java, C/C++, Rust
+⚡ Learning [Zig](https://github.com/ziglang/zig), Scala
+⚡ Product Manager
 ⚡ Project Ordinal Scale
 
 🔭 I’m currently working on 
   - DevSecOps & Automation Tools
   - Distributed Graph/Vector Database
   - Network & System Programming
-  - "Ordinal Scale" linux based kernel
+  - Barebone MMO inspired Linux based UILRT-OS kernel
 
