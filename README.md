@@ -5,10 +5,10 @@
 
 [![GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/lancemk?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
-⚡ Works with! Python, GoLang, JavaScript, Java, C/C++, Rust
-⚡ Learning [Zig](https://github.com/ziglang/zig), Scala
-⚡ Product Manager
-⚡ Project Ordinal Scale
+⚡ Works with! Python, GoLang, JavaScript, Java, C/C++, Rust<br />
+⚡ Learning [Zig](https://github.com/ziglang/zig), Scala<br />
+⚡ Product Manager<br />
+⚡ Project Ordinal Scale<br />
 
 🔭 I’m currently working on 
   - DevSecOps & Automation Tools
