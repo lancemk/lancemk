@@ -6,13 +6,12 @@
 [![GitHub stats](https://awesome-github-stats.azurewebsites.net/user-stats/lancemk?cardType=level&preferLogin=false)](https://git.io/awesome-stats-card)
 
 ⚡ Works with! Python, GoLang, JavaScript, Java, C/C++, Rust<br />
-⚡ Learning [Zig](https://github.com/ziglang/zig), Scala<br />
+⚡ Learning [Zig](https://github.com/ziglang/zig), [Gleam](https://github.com/gleam-lang/gleam), Scala<br />
 ⚡ Product Manager<br />
 ⚡ Project Ordinal Scale<br />
 
 🔭 I’m currently working on 
-  - DevSecOps & Automation Tools
-  - Distributed Graph/Vector Database
-  - Network & System Programming
-  - Barebone MMO inspired Linux based UILRT-OS kernel
+  - DevSecOps & Automation Tools. 
+  - Distributed Graph/Vector Big-DB Infrastructure. In progress, aimed to release beta as Open Source Project
+  - Barebone MMO inspired Linux based OS kerne. Code name not tied down.
 
