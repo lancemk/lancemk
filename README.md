@@ -5,7 +5,7 @@
 
 ![GitHub Azure Web stats](https://awesome-github-stats.azurewebsites.net/user-stats/lancemk?cardType=level&preferLogin=false)
 
-<!-- ![Lance M.'s GitHub Vercel stats](https://github-readme-stats.vercel.app/api?username=lancemk&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark&cache_seconds=86400) -->
+<!-- ![Lance M.'s GitHub Vercel stats](https://github-readme-stats.vercel.app/api?username=lancemk&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=dark) -->
 
 ⚡ Works daily with! Python, Rust, Java, Golang, JavaScript, C/C++ <br />
 ⚡ Learning [Zig](https://github.com/ziglang/zig), [Gleam](https://github.com/gleam-lang/gleam), Scala<br />
